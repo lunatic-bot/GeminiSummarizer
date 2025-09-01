@@ -31,7 +31,7 @@ The app takes user input and generates a **concise 3-bullet point summary** usin
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/GeminiSummarizer.git
+git clone https://github.com/lunatic-bot/GeminiSummarizer.git
 cd GeminiSummarizer
 ```
 
