@@ -9,3 +9,4 @@ pypdf
 fastapi
 uvicorn
 gunicorn
+google-generativeai
